@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Развить навыки правильного оформления заданий с развернутым ответом'
             ],
             duration: '25 занятий',
-            price: '550 руб. за занятие'
+            price: '1000 руб. в мес.'
         },
         'oge-informatics': {
             title: '',
@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 ''
             ],
             duration: '',
-            price: ''
+            price: '1000 руб. в мес.'
         },
         'oge-russian': {
             title: 'Русский ОГЭ',
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Научиться быстро анализировать свои ошибки после пробного экзамена для улучшения результатов'
             ],
             duration: '18 занятий',
-            price: '550 руб. за занятие'
+            price: '1000 руб. в мес.'
         },
         'oge-social': {
             title: 'Обществознание ОГЭ',
@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Методики быстрого усвоения большого объема информации по экономике и праву'
             ],
             duration: '42 занятия (1-2 р. в неделю)',
-            price: '550 руб. за занятие'
+            price: '1000 руб. в мес.'
         },
         'fun-math': {
             title: 'Занимательная математика',
@@ -231,7 +231,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Понять, как математика связана с различными областями жизни, такими как спорт, природа и искусство'
             ],
             duration: '24 занятия',
-            price: '350 руб. за занятие'
+            price: '1000 руб. в мес.'
         },
         'fun-russian': {
             title: '',
@@ -245,7 +245,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 ''
             ],
             duration: '',
-            price: ''
+            price: '1000 руб. в мес.'
         },
         'fun-informatics': {
             title: 'Занимательаня информатика',
@@ -299,7 +299,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 'Презентовать свои идеи и результаты работы перед аудиторией'
             ],
             duration: '20 занятий',
-            price: '350 руб за занятие'
+            price: '1000 руб. в мес.'
         },
         'ege-math': {
             title: '',
@@ -313,7 +313,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 ''
             ],
             duration: '',
-            price: ''
+            price: '1000 руб. в мес.'
         },
         'ege-russian': {
             title: '',
@@ -327,7 +327,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 ''
             ],
             duration: '',
-            price: ''
+            price: '1000 руб. в мес.'
         },
         'ege-social': {
             title: '',
@@ -341,7 +341,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 ''
             ],
             duration: '',
-            price: ''
+            price: '1000 руб. в мес.'
         },
         'success-course': {
             title: '',
@@ -355,7 +355,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 ''
             ],
             duration: '',
-            price: ''
+            price: '1000 руб. в мес.'
         }
     };
 
