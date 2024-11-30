@@ -100,6 +100,8 @@ p {
     margin: 0;
 }
 
+
+
 .nav-links {
     display: flex;
     gap: 2rem;
@@ -507,6 +509,16 @@ p {
 
 .contact-info {
     padding-right: 2rem;
+}
+
+.contact-info_sides {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contact-info_right-side h5 {
+    text-align: center;
 }
 
 .contact-item {
@@ -1791,4 +1803,14 @@ img {
         margin-bottom: 10px;
         width: 100%;
     }
+}
+
+.hero-content h1 {
+    font-size: 3rem;
+}
+
+.qr-code {
+    display: block;
+    width: 150px;
+    height: 150px;
 }
